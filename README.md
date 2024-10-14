@@ -1,7 +1,7 @@
 # Meals App
 The Meals App allows users to choose from a variety of meal options, providing features like dietary filters and detailed recipe information. Built using Flutter, this app aims to enhance the meal selection experience.
 
-Features
+# Features
 Meal Selection: Browse and choose from various meal options.
 Dietary Filters: Apply filters like vegan and gluten-free to narrow down choices.
 Recipe Details: View detailed information about each meal, including preparation time and ingredients.
@@ -12,7 +12,7 @@ RESTful APIs: For retrieving meal information.
 Getting Started
 To set up the project locally, follow these instructions:
 
-Clone the repository:
+# Clone the repository:
 
 bash
 Copy code
@@ -32,8 +32,9 @@ Run the app:
 bash
 Copy code
 flutter run
-Contributing
+
+# Contributing
 Contributions are encouraged! Open an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
