@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/meals-app.git
+git clone https://github.com/sjgod1427/meals-app.git
 Navigate to the project directory:
 
 bash
